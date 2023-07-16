@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ec879d3d9406cbc41812a9898aff6bfb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Wonder Night
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 47c2e706b9d2d374cad6c84538f004fa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

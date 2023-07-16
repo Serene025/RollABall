@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3cc6cd038fce9e14b848ce481092872d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Happy Halloween
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: aa4335e5f0b5c6443a63be7d385a4685, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
